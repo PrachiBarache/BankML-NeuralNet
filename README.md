@@ -127,10 +127,12 @@ Increase conversion rates by 5-10%
 Improve customer experience by reducing unwanted solicitations
 Gain valuable insights into factors driving customer decisions
 
-## Requirements:
+## Requirements
+```
 pandas
 numpy
 sklearn
 torch
 matplotlib
-seaborn 
+seaborn
+```
