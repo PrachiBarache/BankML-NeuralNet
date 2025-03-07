@@ -114,10 +114,10 @@ net.divideParam.testRatio = 0.1;
 
 Below are improved visualizations specifically designed to highlight the differences between Python and MATLAB implementations:
 
-![Performance Comparison](https://placeholder-for-your-actual-comparison-graph.png)
+![Performance Comparison and Training Speed Comparison]
+(https://github.com/PrachiBarache/BankML-NeuralNet/blob/main/Mtlab_plots_op.png)
 *Figure 1: Comparison of Python vs. MATLAB test accuracies across different hidden layer sizes and learning rates*
 
-![Training Speed Comparison](https://placeholder-for-your-actual-speed-comparison-graph.png)
 *Figure 2: Training speed comparison between Python and MATLAB implementations*
 
 Key observations from these visualizations:
